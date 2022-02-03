@@ -43,6 +43,7 @@ main {
     margin: 0 auto;
     background-color: #000000;
     height: 82vh;
+    min-width: 
 }
 
 div.main {
@@ -98,6 +99,7 @@ footer .left-side,
 footer .footer-center,
 footer .right-side {
     align-items: center;
+    flex-shrink: 0;
 }
 
 div.icon > i {
